@@ -16,3 +16,9 @@ It generates instructions by evaluating the mnemonics (symbols) in operation fie
 
 
 ### In this repository I have added C++ (.cpp) codes for pass-1 and pass-2 each. </br>The input test case file and output files have also been added.
+
+input.txt - test case
+</br>ic.txt - intermediate code output after pass-1
+</br>symtable.txt - symbol table output after pass-1
+</br>littable.txt - literal table output after pass-1
+</br>machine_code.txt - machine code output after pass-2
